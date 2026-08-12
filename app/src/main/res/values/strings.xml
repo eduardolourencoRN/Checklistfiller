@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Checklist Filler</string>
+    <string name="accessibility_desc">Preenche automaticamente campos de checklist com valores que voce definiu previamente. Ativado sob demanda pelo botao flutuante.</string>
+</resources>
